@@ -1,0 +1,24 @@
+Métodos
+
+* static - método estático pode ou não retornar um resultado.
+
+    //Retorna o resultado diretamente.
+
+    static void saudacao(){
+        Console.WriteLine("olá");      
+    }
+
+    static void multiplica(int a, int b){
+        int result = a * b;
+        Console.WriteLine("{0} * {1} = {2} ", a, b, resultado);
+    }
+    
+    //Método com retorno, retorna o resultado permitindo que esse valor seja usado posteriormente.
+    
+    static int soma(int a, int b){
+        int result = a + b;
+        return result;
+    }
+
+
+    
