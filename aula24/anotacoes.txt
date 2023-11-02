@@ -3,7 +3,7 @@ Métodos
 * static - método estático pode ou não retornar um resultado.
 
     //Retorna o resultado diretamente.
-
+ 
     static void saudacao(){
         Console.WriteLine("olá");      
     }
@@ -21,4 +21,3 @@ Métodos
     }
 
 
-    
