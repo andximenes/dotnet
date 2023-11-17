@@ -1,0 +1,14 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\obj\Debug\net7.0\MetodoVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\obj\Debug\net7.0\MetodoVirtual.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\obj\Debug\net7.0\MetodoVirtual.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\obj\Debug\net7.0\MetodoVirtual.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\bin\Debug\net7.0\MetodoVirtual.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\bin\Debug\net7.0\MetodoVirtual.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\bin\Debug\net7.0\MetodoVirtual.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\bin\Debug\net7.0\MetodoVirtual.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\bin\Debug\net7.0\MetodoVirtual.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\obj\Debug\net7.0\MetodoVirtual.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\obj\Debug\net7.0\refint\MetodoVirtual.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\obj\Debug\net7.0\MetodoVirtual.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\obj\Debug\net7.0\MetodoVirtual.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula38\MetodoVirtual\obj\Debug\net7.0\ref\MetodoVirtual.dll
