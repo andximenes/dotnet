@@ -1,0 +1,14 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\obj\Debug\net7.0\MeuBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\obj\Debug\net7.0\MeuBanco.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\obj\Debug\net7.0\MeuBanco.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\obj\Debug\net7.0\MeuBanco.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\bin\Debug\net7.0\MeuBanco.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\bin\Debug\net7.0\MeuBanco.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\bin\Debug\net7.0\MeuBanco.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\bin\Debug\net7.0\MeuBanco.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\bin\Debug\net7.0\MeuBanco.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\obj\Debug\net7.0\MeuBanco.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\obj\Debug\net7.0\refint\MeuBanco.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\obj\Debug\net7.0\MeuBanco.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\obj\Debug\net7.0\MeuBanco.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\MeuBanco\obj\Debug\net7.0\ref\MeuBanco.dll

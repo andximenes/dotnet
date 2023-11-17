@@ -1,0 +1,14 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\obj\Debug\net7.0\publica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\obj\Debug\net7.0\publica.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\obj\Debug\net7.0\publica.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\obj\Debug\net7.0\publica.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\bin\Debug\net7.0\publica.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\bin\Debug\net7.0\publica.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\bin\Debug\net7.0\publica.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\bin\Debug\net7.0\publica.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\bin\Debug\net7.0\publica.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\obj\Debug\net7.0\publica.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\obj\Debug\net7.0\refint\publica.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\obj\Debug\net7.0\publica.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\obj\Debug\net7.0\publica.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula28_POO\publica\obj\Debug\net7.0\ref\publica.dll
