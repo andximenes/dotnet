@@ -1,0 +1,14 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\obj\Debug\net7.0\IndexadoresClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\obj\Debug\net7.0\IndexadoresClasse.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\obj\Debug\net7.0\IndexadoresClasse.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\obj\Debug\net7.0\IndexadoresClasse.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\bin\Debug\net7.0\IndexadoresClasse.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\bin\Debug\net7.0\IndexadoresClasse.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\bin\Debug\net7.0\IndexadoresClasse.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\bin\Debug\net7.0\IndexadoresClasse.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\bin\Debug\net7.0\IndexadoresClasse.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\obj\Debug\net7.0\IndexadoresClasse.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\obj\Debug\net7.0\refint\IndexadoresClasse.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\obj\Debug\net7.0\IndexadoresClasse.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\obj\Debug\net7.0\IndexadoresClasse.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula42\IndexadoresClasse\obj\Debug\net7.0\ref\IndexadoresClasse.dll
