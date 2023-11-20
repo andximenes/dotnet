@@ -1,0 +1,4 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula43\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula43\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula43\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula43\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
