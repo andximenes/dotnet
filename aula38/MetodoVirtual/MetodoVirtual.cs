@@ -14,7 +14,7 @@ class Carro:Veiculo
         Console.WriteLine("Informações sobre o carro 1");
     }    
 }
-
+ 
 class Carro2:Veiculo
 {
     //Método sobrescrito
@@ -23,3 +23,4 @@ class Carro2:Veiculo
         Console.WriteLine("Informações sobre o carro 2");
     }    
 }
+ 
