@@ -1,0 +1,14 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\bin\Debug\net7.0\Structs.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\bin\Debug\net7.0\Structs.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\bin\Debug\net7.0\Structs.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\bin\Debug\net7.0\Structs.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\bin\Debug\net7.0\Structs.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\obj\Debug\net7.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\obj\Debug\net7.0\Structs.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\obj\Debug\net7.0\Structs.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\obj\Debug\net7.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\obj\Debug\net7.0\Structs.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\obj\Debug\net7.0\refint\Structs.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\obj\Debug\net7.0\Structs.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\obj\Debug\net7.0\Structs.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula44\Structs\obj\Debug\net7.0\ref\Structs.dll
