@@ -20,5 +20,6 @@ struct Carro
         Console.WriteLine($"Modelo: {this.modelo}");
         Console.WriteLine($"Cor: {this.cor}");
         
+        
     }
 }

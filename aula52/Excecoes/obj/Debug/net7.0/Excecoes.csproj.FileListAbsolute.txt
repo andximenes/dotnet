@@ -1,0 +1,14 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\obj\Debug\net7.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\obj\Debug\net7.0\Excecoes.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\obj\Debug\net7.0\Excecoes.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\obj\Debug\net7.0\Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\bin\Debug\net7.0\Excecoes.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\bin\Debug\net7.0\Excecoes.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\bin\Debug\net7.0\Excecoes.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\bin\Debug\net7.0\Excecoes.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\bin\Debug\net7.0\Excecoes.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\obj\Debug\net7.0\Excecoes.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\obj\Debug\net7.0\refint\Excecoes.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\obj\Debug\net7.0\Excecoes.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\obj\Debug\net7.0\Excecoes.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula52\Excecoes\obj\Debug\net7.0\ref\Excecoes.dll

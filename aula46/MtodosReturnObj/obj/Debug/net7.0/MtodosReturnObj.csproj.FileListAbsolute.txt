@@ -1,0 +1,14 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\obj\Debug\net7.0\MtodosReturnObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\obj\Debug\net7.0\MtodosReturnObj.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\obj\Debug\net7.0\MtodosReturnObj.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\obj\Debug\net7.0\MtodosReturnObj.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\bin\Debug\net7.0\MtodosReturnObj.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\bin\Debug\net7.0\MtodosReturnObj.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\bin\Debug\net7.0\MtodosReturnObj.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\bin\Debug\net7.0\MtodosReturnObj.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\bin\Debug\net7.0\MtodosReturnObj.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\obj\Debug\net7.0\MtodosReturnObj.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\obj\Debug\net7.0\refint\MtodosReturnObj.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\obj\Debug\net7.0\MtodosReturnObj.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\obj\Debug\net7.0\MtodosReturnObj.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula46\MtodosReturnObj\obj\Debug\net7.0\ref\MtodosReturnObj.dll

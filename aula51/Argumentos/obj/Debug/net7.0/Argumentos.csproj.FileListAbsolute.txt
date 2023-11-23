@@ -1,0 +1,14 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\bin\Debug\net7.0\Argumentos.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\bin\Debug\net7.0\Argumentos.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\bin\Debug\net7.0\Argumentos.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\bin\Debug\net7.0\Argumentos.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\bin\Debug\net7.0\Argumentos.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\obj\Debug\net7.0\Argumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\obj\Debug\net7.0\Argumentos.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\obj\Debug\net7.0\Argumentos.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\obj\Debug\net7.0\Argumentos.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\obj\Debug\net7.0\Argumentos.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\obj\Debug\net7.0\refint\Argumentos.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\obj\Debug\net7.0\Argumentos.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\obj\Debug\net7.0\Argumentos.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\aula51\Argumentos\obj\Debug\net7.0\ref\Argumentos.dll
